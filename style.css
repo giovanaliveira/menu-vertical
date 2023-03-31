@@ -1,12 +1,12 @@
 .vertical-menu {
-    width: 200px;
+    width: 400px;
 }
   
 .vertical-menu a {
     background-color: #00a2ff;
     color: black;
     display: block;
-    padding: 12px;
+    padding: 20px;
     text-decoration: none;
 }
   
