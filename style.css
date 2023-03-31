@@ -4,11 +4,13 @@
 }
   
 .vertical-menu a {
+    
     background-color: #3ea8ff;
     color: rgb(0, 0, 0);
     display: block;
     padding: 40px;
     text-decoration: none;
+    
 }
   
 .vertical-menu a:hover {
