@@ -1,33 +1,24 @@
+
+   
+Traduzir mensagem
+Desativar para: inglês
 .vertical-menu {
-    width: 400px;
-
-    text-align:center;
+    width: 200px;
 }
-
+  
 .vertical-menu a {
-    background-color: #00a2ff;
+    background-color: #3ea8ff;
     color: black;
     display: block;
-    padding: 40px;
+    padding: 12px;
     text-decoration: none;
-
-    text-align:center;
-
 }
-
-
+  
 .vertical-menu a:hover {
-    background-color: #ff00b3;
-
-    text-align:center;
+    background-color: #ff0077;
 }
-
+  
 img {
-    width: 400px;
-    height: 400px;
-
-    text-align:center;
-}
-class{
-    text-align: center;
+    width: 200px;
+    height: 200px;
 }
