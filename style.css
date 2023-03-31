@@ -1,5 +1,7 @@
 .vertical-menu {
     width: 400px;
+
+    text-align:center;
 }
   
 .vertical-menu a {
@@ -23,4 +25,6 @@
 img {
     width: 400px;
     height: 400px;
+
+    text-align:center;
 }
