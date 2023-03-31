@@ -8,13 +8,18 @@
     display: block;
     padding: 40px;
     text-decoration: none;
+
     text-align:center;
+
 }
-  
+
+
 .vertical-menu a:hover {
     background-color: #ff00b3;
+
+    text-align:center;
 }
-  
+
 img {
     width: 400px;
     height: 400px;
