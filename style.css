@@ -5,14 +5,14 @@
   
 .vertical-menu a {
     background-color: #3ea8ff;
-    color: black;
+    color: rgb(234, 0, 255);
     display: block;
     padding: 40px;
     text-decoration: none;
 }
   
 .vertical-menu a:hover {
-    background-color: #ff0077;
+    background-color: #ff00aa;
 }
 
 
