@@ -5,7 +5,7 @@
   
 .vertical-menu a {
     
-    background-color: #3ea8ff;
+    background-color: #5a5c5e;
     color: rgb(0, 0, 0);
     display: block;
     padding: 40px;
@@ -14,7 +14,7 @@
 }
   
 .vertical-menu a:hover {
-    background-color: #ff00aa;
+    background-color: #000000;
 }
 
 
